@@ -1,0 +1,9 @@
+C:\Users\Hristo\Desktop\Ping Pong Game\Move and kill\bin\Debug\Move and kill.exe.config
+C:\Users\Hristo\Desktop\Ping Pong Game\Move and kill\bin\Debug\Move and kill.exe
+C:\Users\Hristo\Desktop\Ping Pong Game\Move and kill\bin\Debug\Move and kill.pdb
+C:\Users\Hristo\Desktop\Ping Pong Game\Move and kill\obj\Debug\test.csprojResolveAssemblyReference.cache
+C:\Users\Hristo\Desktop\Ping Pong Game\Move and kill\obj\Debug\Move_and_kill.Form1.resources
+C:\Users\Hristo\Desktop\Ping Pong Game\Move and kill\obj\Debug\Move_and_kill.Properties.Resources.resources
+C:\Users\Hristo\Desktop\Ping Pong Game\Move and kill\obj\Debug\test.csproj.GenerateResource.Cache
+C:\Users\Hristo\Desktop\Ping Pong Game\Move and kill\obj\Debug\Move and kill.exe
+C:\Users\Hristo\Desktop\Ping Pong Game\Move and kill\obj\Debug\Move and kill.pdb
